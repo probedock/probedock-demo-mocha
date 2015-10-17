@@ -1,0 +1,28 @@
+{
+  "name": "probedock-demo-mocha",
+  "version": "0.1.0",
+  "description": "Reference project showing how to integrate Probe Dock with mocha",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wasadigi/probedock-demo-mocha.git"
+  },
+  "keywords": [
+    "probedock",
+    "mocha",
+    "testing"
+  ],
+  "author": "Olivier Liechti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasadigi/probedock-demo-mocha/issues"
+  },
+  "homepage": "https://github.com/wasadigi/probedock-demo-mocha",
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "probedock-node": "^0.2.2"
+  }
+}

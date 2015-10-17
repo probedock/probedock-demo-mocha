@@ -1,0 +1,17 @@
+#
+# You will need to change the content of this file.
+# If you don't have your own Probe Dock server, you
+# can register for a trial account on https://trial.probedock.io/
+#
+# Once you are logged in, create a new project, get
+# the key assigned to this project and put it in the
+# apiId property below.
+#
+# If it is your first Probe Dock project, you will
+# also need to create a file (~/.probedock/config.yml)
+# where you provide your Probe Dock credentials.
+#
+project:
+  apiId: kvr0r1t0ydqx
+  version: 1.0.0
+server: trial.probedock.io
